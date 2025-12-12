@@ -6,15 +6,6 @@
 
 ---
 
-**Submitted by:** [Student Name]  
-**Student ID:** [ID Number]  
-**Supervisor:** [Supervisor Name]  
-**Department:** Computer Science and Engineering  
-**University:** [University Name]  
-**Date:** December 2024  
-
----
-
 ## Table of Contents
 
 1. [Abstract](#1-abstract)
@@ -879,25 +870,5 @@ class QUAWNet(nn.Module):
 
 ---
 
-## Declaration
 
-I declare that this proposal represents my original work and that I have properly cited all sources used. I understand that this project will be conducted under the supervision of [Supervisor Name] and in accordance with the university's academic integrity policies.
-
-**Student Signature:** _______________________
-
-**Date:** _______________________
-
-**Supervisor Approval:** _______________________
-
-**Date:** _______________________
-
----
-
-*Document prepared in accordance with IEEE conference formatting guidelines.*
-
-*Total pages: 15*
-
----
-
-**End of Proposal**
 
